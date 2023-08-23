@@ -1,8 +1,6 @@
 import React from 'react'
 
 function Total(props) {
-    console.log(props)
-   // console.log(`${props.parts[0].exercises} + ${props.parts[1].exercises}`)
     
    let exc1  = props.parts[0].exercises 
     
